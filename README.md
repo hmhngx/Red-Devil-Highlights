@@ -2,21 +2,7 @@
 
 Submitted by: **Hung Nguyen**
 
-This web app: **Manchester United 2023/2024 Dashboard
-
-A sleek, interactive React app showcasing Man United's 2023 match stats with:
-
-Glowing red-themed UI with animations
-
-Filterable match data (results, venues, goals)
-
-Interactive goals chart and performance stats
-
-Responsive design for all devices
-
-Perfect for fans who want beautiful football analytics. ⚽🔥
-
-Features: Match filtering, goal stats, win percentages, and mobile optimization.**
+This web app: **Manchester United 2023/2024 Dashboard is a sleek, interactive React app showcasing Man United's 2023 match stats with: Glowing red-themed UI with animations, Filterable match data (results, venues, goals), Interactive goals chart and performance stats, Responsive design for all devices, Perfect for fans who want beautiful football analytics ⚽🔥, Features: Match filtering, goal stats, win percentages, and mobile optimization.**
 
 Time spent: **5** hours spent in total
 
