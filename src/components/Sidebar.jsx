@@ -1,4 +1,3 @@
-// src/components/Sidebar.jsx
 import { Link } from 'react-router-dom';
 import { FaHome, FaDatabase } from 'react-icons/fa';
 import '../styles/Sidebar.css';

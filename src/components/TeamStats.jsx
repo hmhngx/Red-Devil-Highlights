@@ -10,7 +10,7 @@ const TeamStats = ({ teamId = 33, season = 2023, league = 39 }) => {
   useEffect(() => {
     const fetchStats = async () => {
       try {
-        const apiKey = import.meta.env.VITE_FOOTBALL_API_KEY;
+        const apiKey = "6c1560b8097a95c33a1287c88e511f5b";
         if (!apiKey) throw new Error('API key is missing');
 
         const res = await fetch(

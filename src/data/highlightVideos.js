@@ -1,4 +1,3 @@
-// src/data/highlightVideos.js
 export const highlightVideos = {
     // Manchester United vs Wolves (2023-08-14)
     '1035046': 'https://www.youtube.com/embed/UnVLzgtuSUw',
