@@ -52,9 +52,9 @@ export const highlightVideos = {
     // Manchester United vs Fulham (2024-02-24)
     '1035431': 'https://www.youtube.com/embed/cCZ1jalRkzI',
     // Manchester City vs Manchester United (2024-03-03)
-    '1035439': 'https://www.youtube.com/embed/2pMc8NOd2Xw&t=39s',
+    '1035439': 'https://www.youtube.com/embed/2pMc8NOd2Xw&t=551s',
     // Manchester United vs Everton (2024-03-09)
-    '1035451': 'https://www.youtube.com/embed/ckvZn2XwY1c',
+    '1035451': 'https://www.youtube.com/embed/Z_zl6TAl6Uw',
     // Brentford vs Manchester United (2024-03-30)
     '1035466': 'https://www.youtube.com/embed/LX60zyBOQHk',
     // Chelsea vs Manchester United (2024-04-04)
