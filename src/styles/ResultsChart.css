@@ -1,0 +1,14 @@
+.chart-section {
+    background: rgba(30, 30, 30, 0.85);
+    border: 1px solid var(--accent-color);
+    border-radius: 12px;
+    padding: 2rem;
+    margin-bottom: 2rem;
+  }
+  
+  .chart-section h2 {
+    margin: 0 0 2rem;
+    color: var(--text-color);
+    text-align: center;
+    font-size: 1.8rem;
+  }

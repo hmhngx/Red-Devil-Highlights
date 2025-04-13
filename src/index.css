@@ -1,16 +1,23 @@
 :root {
-  color-scheme: dark;
+  --primary-color: #DA291C;
+  --primary-glow: rgba(218, 41, 28, 0.8);
+  --secondary-color: #1E1E1E;
+  --accent-color: #333333;
+  --text-color: #FFFFFF;
+  --success-color: #4CAF50;
+  --danger-color: #F44336;
+  --warning-color: #FFC107;
 }
 
 body {
   margin: 0;
   padding: 0;
   font-family: 'Helvetica Neue', Arial, sans-serif;
-  font-weight: 300;
-  background-color: var(--secondary-color);
+  background: linear-gradient(135deg, #0a0a0a 0%, #1e1e1e 100%);
   color: var(--text-color);
-  display: flex;
-  justify-content: center;
-  align-items: center;
   min-height: 100vh;
+}
+
+* {
+  box-sizing: border-box;
 }

@@ -1,0 +1,42 @@
+.filters {
+    display: flex;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 2rem;
+  }
+  
+  .search-bar {
+    flex: 1;
+    max-width: 400px;
+    padding: 1rem;
+    background-color: rgba(30, 30, 30, 0.85);
+    color: var(--text-color);
+    border: 1px solid var(--accent-color);
+    border-radius: 10px;
+    font-size: 1rem;
+    transition: all 0.3s ease;
+  }
+  
+  .search-bar:focus {
+    outline: none;
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 3px rgba(218, 41, 28, 0.3);
+  }
+  
+  .filter {
+    padding: 1rem 0.5rem;
+    background: rgba(30, 30, 30, 0.85);
+    color: var(--text-color);
+    border: 1px solid var(--accent-color);
+    border-radius: 10px;
+    font-size: 1rem;
+    cursor: pointer;
+    min-width: 180px;
+  }
+  
+  .filter:focus {
+    outline: none;
+    border-color: var(--primary-color);
+  }
